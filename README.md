@@ -33,7 +33,7 @@ Two key outputs were generated from the analysis:
 
 This line chart displays the total number of products sold daily over the observed period. It allows us to see instantaneous changes, peaks, and troughs in the company's overall sales volume.
 
-![Daily Sales Volume](volume.png)
+![Daily Sales Volume](img\volume.png)
 
 **Inference:**
 The chart reveals that sales volume exhibits significant daily fluctuations. On certain dates, there are sudden and sharp peaks in sales. This could be the result of special campaigns, email marketing activities, or bulk purchases on those specific days.
@@ -44,7 +44,7 @@ The chart reveals that sales volume exhibits significant daily fluctuations. On 
 
 This bar chart ranks the top-selling products based on the number of transactions. It clearly shows which products are the most popular among the customer base.
 
-![Top Selling Products](productsold.png)
+![Top Selling Products](img\productsold.png)
 
 **Inference:**
 The graph shows a typical **"long-tail" distribution** in product popularity.
