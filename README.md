@@ -83,7 +83,35 @@ The "niche" products that come after the top 10 but still have regular sales sho
 
 * These products are often found by customers searching for a specific need. Therefore, the **SEO (Search Engine Optimization)** titles and descriptions for these products should be strengthened.
 * Instead of high-budget ads, low-cost marketing automation (e.g., "Customers who viewed this item, also viewed...") can be used for these products.
+---
 
+## 🛠️ Setup and Usage
+
+### 1. Clone the Repository
+
+To download the project to your local machine, clone this GitHub repository:
+
+```bash
+git clone https://github.com/Kerem-Oktr/ecommerce-data-analysis
+```
+### 2.Navigate to Project Directory:
+```bash
+cd ecommerce-data-analysis
+```
+### 3. Install Requirements:
+Install the necessary Python libraries for the project to run using `pip`:
+- pandas
+- numpy
+- matplotlib
+```bash
+pip install pandas numpy matplotlib
+```
+### 4.Run the Script:
+With all files (especially `customer_details.csv` and `basket_details.csv`) in the same directory as `main.py`, run the script:
+```bash
+python main.py
+```
+When you run the script, two plot windows generated from the analysis will open.
 ## 🛠️ Technologies Used
 
 * **Python 3.x**
